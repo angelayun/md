@@ -1,25 +1,25 @@
-* https://time.geekbang.org/column/article/211673
+* [开篇词 | 如何学习谷歌高性能 JavaScript 引擎V8？](https://time.geekbang.org/column/article/211673)
 
-1. https://time.geekbang.org/column/article/211682
-2. https://time.geekbang.org/column/article/212123
-3. https://time.geekbang.org/column/article/213250
-4. https://time.geekbang.org/column/article/215248
-5. https://time.geekbang.org/column/article/215425
-6. https://time.geekbang.org/column/article/217027
-7. https://time.geekbang.org/column/article/218499
-8. https://time.geekbang.org/column/article/219418
-9. https://time.geekbang.org/column/article/219066
-10. https://time.geekbang.org/column/article/221211
-11. https://time.geekbang.org/column/article/221928
-12. https://time.geekbang.org/column/article/223168
-13. https://time.geekbang.org/column/article/224206
-14. https://time.geekbang.org/column/article/224908
-15. https://time.geekbang.org/column/article/226417
-16. https://time.geekbang.org/column/article/226984
-17. https://time.geekbang.org/column/article/227926
-18. https://time.geekbang.org/column/article/229532
-19. https://time.geekbang.org/column/article/230117
-20. https://time.geekbang.org/column/article/230845
-21. https://time.geekbang.org/column/article/232138
-22. https://time.geekbang.org/column/article/232492
-23. https://time.geekbang.org/column/article/233249
+1. [01 | V8是如何执行一段JavaScript代码的？](https://time.geekbang.org/column/article/211682)
+2. [02 | 函数即对象：一篇文章彻底搞懂JavaScript的函数特点](https://time.geekbang.org/column/article/212123)
+3. [03 | 快属性和慢属性：V8是怎样提升对象属性访问速度的？](https://time.geekbang.org/column/article/213250)
+4. [04 | 函数表达式：涉及大量概念，函数表达式到底该怎么学？](https://time.geekbang.org/column/article/215248)
+5. [05｜原型链：V8是如何实现对象继承的？](https://time.geekbang.org/column/article/215425)
+6. [06｜作用域链：V8是如何查找变量的？](https://time.geekbang.org/column/article/217027)
+7. [07｜类型转换：V8是怎么实现1+“2”的？](https://time.geekbang.org/column/article/218499)
+8. [08｜答疑：如何构建和使用V8的调试工具d8？](https://time.geekbang.org/column/article/219418)
+9. [09 | 运行时环境：运行JavaScript代码的基石](https://time.geekbang.org/column/article/219066)
+10. [10 | 机器代码：二进制机器码究竟是如何被CPU执行的？](https://time.geekbang.org/column/article/221211)
+11. [11 | 堆和栈：函数调用是如何影响到内存布局的？](https://time.geekbang.org/column/article/221928)
+12. [12 | 延迟解析：V8是如何实现闭包的？](https://time.geekbang.org/column/article/223168)
+13. [13 | 字节码（一）：V8为什么又重新引入字节码？](https://time.geekbang.org/column/article/224206)
+14. [14｜字节码（二）：解释器是如何解释执行字节码的？](https://time.geekbang.org/column/article/224908)
+15. [15 | 隐藏类：如何在内存中快速查找对象属性？](https://time.geekbang.org/column/article/226417)
+16. [16 | 答疑： V8是怎么通过内联缓存来提升函数执行效率的？](https://time.geekbang.org/column/article/226984)
+17. [17 | 消息队列：V8是怎么实现回调函数的？](https://time.geekbang.org/column/article/227926)
+18. [18 | 异步编程（一）：V8是如何实现微任务的？](https://time.geekbang.org/column/article/229532)
+19. [19｜异步编程（二）：V8是如何实现async/await的？](https://time.geekbang.org/column/article/230117)
+20. [20 | 垃圾回收（一）：V8的两个垃圾回收器是如何工作的？](https://time.geekbang.org/column/article/230845)
+21. [21 | 垃圾回收（二）：V8是如何优化垃圾回收器执行效率的？](https://time.geekbang.org/column/article/232138)
+22. [22｜答疑：几种常见内存问题的解决策略](https://time.geekbang.org/column/article/232492)
+23. [结束语 | 我的前端学习踩坑史](https://time.geekbang.org/column/article/233249)

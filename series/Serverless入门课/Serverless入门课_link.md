@@ -1,19 +1,17 @@
-* https://time.geekbang.org/column/article/224545
-* https://time.geekbang.org/column/article/224557
-* https://time.geekbang.org/column/article/235230
-* https://time.geekbang.org/column/article/239220
-* https://time.geekbang.org/column/article/235254
+* [开篇词 | 说来说去，到底Serverless要解决什么问题？](https://time.geekbang.org/column/article/224545)
+* [特别放送 | 为什么阿里要举集团之力趟坑Serverless？](https://time.geekbang.org/column/article/224557)
+* [结束语 | 带你整体回顾我们的Serverless案例](https://time.geekbang.org/column/article/235230)
+* [结课问卷获奖用户名单](https://time.geekbang.org/column/article/239220)
+* [期末测试 | 有关Serverless，你掌握了多少呢？](https://time.geekbang.org/column/article/235254)
 
-1. https://time.geekbang.org/column/article/224559
-2. https://time.geekbang.org/column/article/226574
-3. https://time.geekbang.org/column/article/227454
-4. https://time.geekbang.org/column/article/228951
-5. https://time.geekbang.org/column/article/229905
-6. https://time.geekbang.org/column/article/230665
-7. https://time.geekbang.org/column/article/231012
-8. https://time.geekbang.org/column/article/232303
-9. https://time.geekbang.org/column/article/232648
-10. https://time.geekbang.org/column/article/233532
-11. https://time.geekbang.org/column/article/234534
-12. 
-13. 
+1. [01｜定义：到底什么是Serverless？](https://time.geekbang.org/column/article/224559)
+2. [02 | 原理：通过一个案例，理解FaaS的运行逻辑](https://time.geekbang.org/column/article/226574)
+3. [03 | 原理：FaaS的两种进程模型及应用场景](https://time.geekbang.org/column/article/227454)
+4. [04 | 原理：FaaS应用如何才能快速扩缩容？](https://time.geekbang.org/column/article/228951)
+5. [05 | 后端BaaS化（上）：NoOps的微服务](https://time.geekbang.org/column/article/229905)
+6. [06 | 后端BaaS化（中）：业务逻辑的拆与合](https://time.geekbang.org/column/article/230665)
+7. [07 | 后端BaaS化（下）：Container Serverless](https://time.geekbang.org/column/article/231012)
+8. [08 | 搭建私有Serverless（一）：K8s和云原生CNCF](https://time.geekbang.org/column/article/232303)
+9. [09 | 搭建私有Serverless（二）：基于K8s的Serverless](https://time.geekbang.org/column/article/232648)
+10. [10 | 经验：Serverless架构应该如何选型？](https://time.geekbang.org/column/article/233532)
+11. [11 | 经验：Serverless开发最佳实践](https://time.geekbang.org/column/article/234534)

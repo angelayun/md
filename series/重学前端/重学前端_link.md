@@ -1,60 +1,60 @@
 # 链接地址
-1. https://time.geekbang.org/column/article/77345
-2. https://time.geekbang.org/column/article/77749
-3. https://time.geekbang.org/column/article/77804
-4. https://time.geekbang.org/column/article/78884
-5. https://time.geekbang.org/column/article/79319
-6. https://time.geekbang.org/column/article/79539
-7. https://time.geekbang.org/column/article/80011
-8. https://time.geekbang.org/column/article/82764
-9. https://time.geekbang.org/column/article/83302
-10. https://time.geekbang.org/column/article/83719
-11. https://time.geekbang.org/column/article/83860
-12. https://time.geekbang.org/column/article/86400
-13. https://time.geekbang.org/column/article/86823
-14. https://time.geekbang.org/column/article/87179
-15. https://time.geekbang.org/column/article/87808
-16. https://time.geekbang.org/column/article/88538
-17. https://time.geekbang.org/column/article/88827
-18. https://time.geekbang.org/column/article/89151
-19. https://time.geekbang.org/column/article/78158
-20. https://time.geekbang.org/column/article/78168
-21. https://time.geekbang.org/column/article/80042
-22. https://time.geekbang.org/column/article/82711
-23. https://time.geekbang.org/column/article/84365
-24. https://time.geekbang.org/column/article/84633
-25. https://time.geekbang.org/column/article/85341
-26. https://time.geekbang.org/column/article/85745
-27. https://time.geekbang.org/column/article/89491
-28. https://time.geekbang.org/column/article/89832
-29. https://time.geekbang.org/column/article/90148
-30. https://time.geekbang.org/column/article/91325
-31. https://time.geekbang.org/column/article/92227
-32. https://time.geekbang.org/column/article/92663
-33. https://time.geekbang.org/column/article/93110
-34. https://time.geekbang.org/column/article/93777
-35. https://time.geekbang.org/column/article/80240
-36. https://time.geekbang.org/column/article/80260
-37. https://time.geekbang.org/column/article/80311
-38. https://time.geekbang.org/column/article/81730
-39. https://time.geekbang.org/column/article/82397
-40. https://time.geekbang.org/column/article/85031
-41. https://time.geekbang.org/column/article/86117
-42. https://time.geekbang.org/column/article/90485
-43. https://time.geekbang.org/column/article/90998
-44. https://time.geekbang.org/column/article/94156
-45. https://time.geekbang.org/column/article/94644
-46. https://time.geekbang.org/column/article/94979
-47. https://time.geekbang.org/column/article/95469
-48. https://time.geekbang.org/column/article/95833
-49. https://time.geekbang.org/column/article/80021
-50. https://time.geekbang.org/column/article/87234
-51. https://time.geekbang.org/column/article/88275
-52. https://time.geekbang.org/column/article/91644
-53. https://time.geekbang.org/column/article/93216
-54. https://time.geekbang.org/column/article/93289
-55. https://time.geekbang.org/column/article/96269
-56. https://time.geekbang.org/column/article/96809
-57. https://time.geekbang.org/column/article/106193
-58. https://time.geekbang.org/column/article/97144
+1. [开篇词 | 从今天起，重新理解前端](https://time.geekbang.org/column/article/77345)
+2. [明确你的前端学习路线与方法](https://time.geekbang.org/column/article/77749)
+3. [列一份前端知识架构图](https://time.geekbang.org/column/article/77804)
+4. [JavaScript类型：关于类型，有哪些你不知道的细节？](https://time.geekbang.org/column/article/78884)
+5. [JavaScript对象：面向对象还是基于对象？](https://time.geekbang.org/column/article/79319)
+6. [JavaScript对象：我们真的需要模拟类吗？](https://time.geekbang.org/column/article/79539)
+7. [JavaScript对象：你知道全部的对象分类吗？](https://time.geekbang.org/column/article/80011)
+8. [JavaScript执行（一）：Promise里的代码为什么比setTimeout先执行？](https://time.geekbang.org/column/article/82764)
+9. [JavaScript执行（二）：闭包和执行上下文到底是怎么回事？](https://time.geekbang.org/column/article/83302)
+10. [JavaScript执行（三）：你知道现在有多少种函数吗？](https://time.geekbang.org/column/article/83719)
+11. [JavaScript执行（四）：try里面放return，finally还会执行吗？](https://time.geekbang.org/column/article/83860)
+12. [JavaScript词法：为什么12.toString会报错？](https://time.geekbang.org/column/article/86400)
+13. [（小实验）理解编译原理：一个四则运算的解释器](https://time.geekbang.org/column/article/86823)
+14. [JavaScript语法（预备篇）：到底要不要写分号呢？](https://time.geekbang.org/column/article/87179)
+15. [JavaScript语法（一）：在script标签写export为什么会抛错？](https://time.geekbang.org/column/article/87808)
+16. [JavaScript语法（二）：你知道哪些JavaScript语句？](https://time.geekbang.org/column/article/88538)
+17. [JavaScript语法（三）：什么是表达式语句？](https://time.geekbang.org/column/article/88827)
+18. [JavaScript语法（四）：新加入的**运算符，哪里有些不一样呢？](https://time.geekbang.org/column/article/89151)
+19. [HTML语义：div和span不是够用了吗？](https://time.geekbang.org/column/article/78158)
+20. [HTML语义：如何运用语义类标签来呈现Wiki网页？](https://time.geekbang.org/column/article/78168)
+21. [CSS语法：除了属性和选择器，你还需要知道这些带@的规则](https://time.geekbang.org/column/article/80042)
+22. [HTML元信息类标签：你知道head里一共能写哪几种标签吗？](https://time.geekbang.org/column/article/82711)
+23. [CSS 选择器：如何选中svg里的a元素？](https://time.geekbang.org/column/article/84365)
+24. [CSS选择器：伪元素是怎么回事儿？](https://time.geekbang.org/column/article/84633)
+25. [HTML链接：除了a标签，还有哪些标签叫链接？](https://time.geekbang.org/column/article/85341)
+26. [CSS排版：从毕升开始，我们就开始用正常流了](https://time.geekbang.org/column/article/85745)
+27. [HTML替换型元素：为什么link一个CSS要用href，而引入js要用src呢？](https://time.geekbang.org/column/article/89491)
+28. [HTML小实验：用代码分析HTML标准](https://time.geekbang.org/column/article/89832)
+29. [CSS Flex排版：为什么垂直居中这么难？](https://time.geekbang.org/column/article/90148)
+30. [CSS动画与交互：为什么动画要用贝塞尔曲线这么奇怪的东西？](https://time.geekbang.org/column/article/91325)
+31. [HTML语言：DTD到底是什么？](https://time.geekbang.org/column/article/92227)
+32. [CSS渲染：CSS是如何绘制颜色的？](https://time.geekbang.org/column/article/92663)
+33. [CSS小实验：动手做，用代码挖掘CSS属性](https://time.geekbang.org/column/article/93110)
+34. [HTML·ARIA：可访问性是只给盲人用的特性么？](https://time.geekbang.org/column/article/93777)
+35. [浏览器：一个浏览器是如何工作的？（阶段一）](https://time.geekbang.org/column/article/80240)
+36. [浏览器：一个浏览器是如何工作的？（阶段二）](https://time.geekbang.org/column/article/80260)
+37. [浏览器：一个浏览器是如何工作的（阶段三）](https://time.geekbang.org/column/article/80311)
+38. [浏览器：一个浏览器是如何工作的？（阶段四）](https://time.geekbang.org/column/article/81730)
+39. [浏览器：一个浏览器是如何工作的？（阶段五）](https://time.geekbang.org/column/article/82397)
+40. [浏览器DOM：你知道HTML的节点有哪几种吗？](https://time.geekbang.org/column/article/85031)
+41. [浏览器CSSOM：如何获取一个元素的准确位置](https://time.geekbang.org/column/article/86117)
+42. [浏览器事件：为什么会有捕获过程和冒泡过程？](https://time.geekbang.org/column/article/90485)
+43. [浏览器API（小实验）：动手整理全部API](https://time.geekbang.org/column/article/90998)
+44. [性能：前端的性能到底对业务数据有多大的影响？](https://time.geekbang.org/column/article/94156)
+45. [工具链：什么样的工具链才能提升团队效率？](https://time.geekbang.org/column/article/94644)
+46. [持续集成：几十个前端一起工作，如何保证工作质量？](https://time.geekbang.org/column/article/94979)
+47. [搭建系统：大量的低价值需求应该如何应对？](https://time.geekbang.org/column/article/95469)
+48. [前端架构：前端架构有哪些核心问题？](https://time.geekbang.org/column/article/95833)
+49. [新年彩蛋 | 2019，有哪些前端技术值得关注？](https://time.geekbang.org/column/article/80021)
+50. [用户故事 | 那些你与“重学前端”的不解之缘](https://time.geekbang.org/column/article/87234)
+51. [期中答疑 | name(){}与name: function() {}，两种写法有什么区别吗？](https://time.geekbang.org/column/article/88275)
+52. [答疑加餐 | 学了这么多前端的“小众”知识，到底对我有什么帮助？](https://time.geekbang.org/column/article/91644)
+53. [加餐 | 前端与图形学](https://time.geekbang.org/column/article/93216)
+54. [加餐 | 前端交互基础设施的建设](https://time.geekbang.org/column/article/93289)
+55. [期末答疑（一）：前端代码单元测试怎么做？](https://time.geekbang.org/column/article/96269)
+56. [期末答疑（二）：前端架构中，每个逻辑页面如何可以做到独立发布呢？](https://time.geekbang.org/column/article/96809)
+57. [加餐 | 一个前端工程师到底需要掌握哪些技能？](https://time.geekbang.org/column/article/106193)
+58. [尾声 | 长风破浪会有时，直挂云帆济沧海](https://time.geekbang.org/column/article/97144)
 59. 

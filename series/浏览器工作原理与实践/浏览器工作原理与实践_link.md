@@ -1,48 +1,47 @@
 
 # 链接地址
-* https://time.geekbang.org/column/article/113399
-* https://time.geekbang.org/column/article/113513
-* https://time.geekbang.org/column/article/113550
-* https://time.geekbang.org/column/article/116588
-* https://time.geekbang.org/column/article/117637
-* https://time.geekbang.org/column/article/118205
-* https://time.geekbang.org/column/article/118826
-* https://time.geekbang.org/column/article/119046
-* https://time.geekbang.org/column/article/120257
-* https://time.geekbang.org/column/article/126339
-* https://time.geekbang.org/column/article/127495
-* https://time.geekbang.org/column/article/128427
-* https://time.geekbang.org/column/article/129596
-* https://time.geekbang.org/column/article/131233
-* https://time.geekbang.org/column/article/131887
-* https://time.geekbang.org/column/article/132931
-* https://time.geekbang.org/column/article/134456
-* https://time.geekbang.org/column/article/135127
-* https://time.geekbang.org/column/article/135624
-* https://time.geekbang.org/column/article/136895
-* https://time.geekbang.org/column/article/137827
-* https://time.geekbang.org/column/article/138844
-* https://time.geekbang.org/column/article/140140
-* https://time.geekbang.org/column/article/140703
-* https://time.geekbang.org/column/article/141842
-* https://time.geekbang.org/column/article/143889
-* https://time.geekbang.org/column/article/144569
-* https://time.geekbang.org/column/article/144983
-* https://time.geekbang.org/column/article/145546
-* https://time.geekbang.org/column/article/147501
-* https://time.geekbang.org/column/article/148546
-* https://time.geekbang.org/column/article/150159
-* https://time.geekbang.org/column/article/151370
-* https://time.geekbang.org/column/article/152807
-* https://time.geekbang.org/column/article/154110
-* https://time.geekbang.org/column/article/155183
-* https://time.geekbang.org/column/article/156181
-* https://time.geekbang.org/column/article/157406
-* https://time.geekbang.org/column/article/211563
-* https://time.geekbang.org/column/article/165897
-* https://time.geekbang.org/column/article/169468
-* https://time.geekbang.org/column/article/174254
-* https://time.geekbang.org/column/article/177070
-* https://time.geekbang.org/column/article/179428
-* https://time.geekbang.org/column/article/180213
-* 
+0. [开篇词 | 参透了浏览器的工作原理，你就能解决80%的前端难题](https://time.geekbang.org/column/article/113399)
+1. [01 | Chrome架构：仅仅打开了1个页面，为什么有4个进程？](https://time.geekbang.org/column/article/113513)
+2. [02 | TCP协议：如何保证页面文件能被完整送达浏览器？](https://time.geekbang.org/column/article/113550)
+3. [03 | HTTP请求流程：为什么很多站点第二次打开速度会很快？](https://time.geekbang.org/column/article/116588)
+4. [04 | 导航流程：从输入URL到页面展示，这中间发生了什么？](https://time.geekbang.org/column/article/117637))
+5. [05 | 渲染流程（上）：HTML、CSS和JavaScript，是如何变成页面的？](https://time.geekbang.org/column/article/118205)
+6. [06 | 渲染流程（下）：HTML、CSS和JavaScript，是如何变成页面的？](https://time.geekbang.org/column/article/118826)
+7. [07 | 变量提升：JavaScript代码是按顺序执行的吗？](https://time.geekbang.org/column/article/119046)
+8. [08 | 调用栈：为什么JavaScript代码会出现栈溢出？](https://time.geekbang.org/column/article/120257)
+9. [09 | 块级作用域：var缺陷以及为什么要引入let和const？](https://time.geekbang.org/column/article/126339)
+10. [10 | 作用域链和闭包 ：代码中出现相同的变量，JavaScript引擎是如何选择的？](https://time.geekbang.org/column/article/127495)
+11. [11 | this：从JavaScript执行上下文的视角讲清楚this](https://time.geekbang.org/column/article/128427)
+12. [12 | 栈空间和堆空间：数据是如何存储的？](https://time.geekbang.org/column/article/129596)
+13. [13 | 垃圾回收：垃圾数据是如何自动回收的？](https://time.geekbang.org/column/article/131233)
+14. [14 | 编译器和解释器：V8是如何执行一段JavaScript代码的？](https://time.geekbang.org/column/article/131887)
+15. [15 | 消息队列和事件循环：页面是怎么“活”起来的？](https://time.geekbang.org/column/article/132931)
+16. [16 | WebAPI：setTimeout是如何实现的？](https://time.geekbang.org/column/article/134456)
+17. [17 | WebAPI：XMLHttpRequest是怎么实现的？](https://time.geekbang.org/column/article/135127)
+18. [18 | 宏任务和微任务：不是所有任务都是一个待遇](https://time.geekbang.org/column/article/135624)
+19. [19 | Promise：使用Promise，告别回调函数](https://time.geekbang.org/column/article/136895)
+20. [20 | async/await：使用同步的方式去写异步代码](https://time.geekbang.org/column/article/137827)
+21. [21 | Chrome开发者工具：利用网络面板做性能分析](https://time.geekbang.org/column/article/138844)
+22. [22 | DOM树：JavaScript是如何影响DOM树构建的？](https://time.geekbang.org/column/article/140140)
+23. [23 | 渲染流水线：CSS如何影响首次加载时的白屏时间？](https://time.geekbang.org/column/article/140703)
+24. [24 | 分层和合成机制：为什么CSS动画比JavaScript高效？](https://time.geekbang.org/column/article/141842)
+25. [25 | 页面性能：如何系统地优化页面？](https://time.geekbang.org/column/article/143889)
+26. [26 | 虚拟DOM：虚拟DOM和实际的DOM有何不同？](https://time.geekbang.org/column/article/144569)
+27. [27 | 渐进式网页应用（PWA）：它究竟解决了Web应用的哪些问题？](https://time.geekbang.org/column/article/144983)
+28. [28 | WebComponent：像搭积木一样构建Web应用](https://time.geekbang.org/column/article/145546)
+29. [29 | HTTP/1：HTTP性能优化](https://time.geekbang.org/column/article/147501)
+30. [30｜HTTP/2：如何提升网络速度？](https://time.geekbang.org/column/article/148546)
+31. [31｜HTTP/3：甩掉TCP、TLS 的包袱，构建高效网络](https://time.geekbang.org/column/article/150159)
+32. [32 | 同源策略：为什么XMLHttpRequest不能跨域请求资源？](https://time.geekbang.org/column/article/151370)
+33. [33 | 跨站脚本攻击（XSS）：为什么Cookie中有HttpOnly属性？](https://time.geekbang.org/column/article/152807)
+34. [34 | CSRF攻击：陌生链接不要随便点](https://time.geekbang.org/column/article/154110)
+35. [35 | 安全沙箱：页面和系统之间的隔离墙](https://time.geekbang.org/column/article/155183)
+36. [36 | HTTPS：让数据传输更安全](https://time.geekbang.org/column/article/156181)
+37. [结束语 | 大道至简](https://time.geekbang.org/column/article/157406)
+38. [第二季回归 | 这次我们来专门聊聊V8](https://time.geekbang.org/column/article/211563)
+39. [加餐一｜浏览上下文组：如何计算Chrome中渲染进程的个数？](https://time.geekbang.org/column/article/165897)
+40. [加餐二｜任务调度：有了setTimeOut，为什么还要使用rAF？](https://time.geekbang.org/column/article/169468)
+41. [加餐三｜加载阶段性能：使用Audits来优化Web性能](https://time.geekbang.org/column/article/174254)
+42. [加餐四｜页面性能工具：如何使用Performance？](https://time.geekbang.org/column/article/177070)
+43. [加餐五 | 性能分析工具：如何分析Performance中的Main指标？](https://time.geekbang.org/column/article/179428)
+44. [加餐六｜HTTPS：浏览器如何验证数字证书？](https://time.geekbang.org/column/article/180213)

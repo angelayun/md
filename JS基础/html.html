@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>css filter issue</title>
+    <style>
+      body {
+        height: 1200px;
+        background: red;
+        filter: grayscale(1); /* 关键代码 */
+      }
+ 
+      .fixed {
+        color: yellow;
+        position: fixed;
+        top: 0;
+        right: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="fixed">fixed item</div>
+  </body>
+</html>

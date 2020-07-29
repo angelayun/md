@@ -1,48 +1,46 @@
-* https://time.geekbang.org/column/article/97822
-* a
+* [开篇词｜To Be a HTTP Hero](https://time.geekbang.org/column/article/97822)
   
-1. https://time.geekbang.org/column/article/97837
-2. https://time.geekbang.org/column/article/98128
-3. https://time.geekbang.org/column/article/98423
-4. https://time.geekbang.org/column/article/98934
-5. https://time.geekbang.org/column/article/99286
-6. https://time.geekbang.org/column/article/99665
-7. https://time.geekbang.org/column/article/100124
-8. https://time.geekbang.org/column/article/100502
-9. https://time.geekbang.org/column/article/100513
-10. https://time.geekbang.org/column/article/101518
-11. https://time.geekbang.org/column/article/102008
-12. https://time.geekbang.org/column/article/102483
-13. https://time.geekbang.org/column/article/103270
-14. https://time.geekbang.org/column/article/103746
-15. https://time.geekbang.org/column/article/104024
-16. https://time.geekbang.org/column/article/104456
-17. https://time.geekbang.org/column/article/104949
-18. https://time.geekbang.org/column/article/105614
-19. https://time.geekbang.org/column/article/106034
-20. https://time.geekbang.org/column/article/106804
-21. https://time.geekbang.org/column/article/107577
-22. https://time.geekbang.org/column/article/108313
-23. https://time.geekbang.org/column/article/108643
-24. https://time.geekbang.org/column/article/109062
-25. https://time.geekbang.org/column/article/109503
-26. https://time.geekbang.org/column/article/110354
-27. https://time.geekbang.org/column/article/110718
-28. https://time.geekbang.org/column/article/111287
-29. https://time.geekbang.org/column/article/111940
-30. https://time.geekbang.org/column/article/112036
-31. https://time.geekbang.org/column/article/113481
-32. https://time.geekbang.org/column/article/115564
-33. https://time.geekbang.org/column/article/116260
-34. https://time.geekbang.org/column/article/117492
-35. https://time.geekbang.org/column/article/118685
-36. https://time.geekbang.org/column/article/119013
-37. https://time.geekbang.org/column/article/120664
-38. https://time.geekbang.org/column/article/121092
-39. https://time.geekbang.org/column/article/126374
-40. https://time.geekbang.org/column/article/127808
-41. https://time.geekbang.org/column/article/146833
-42. https://time.geekbang.org/column/article/148188
-43. https://time.geekbang.org/column/article/128406
-44. https://time.geekbang.org/column/article/228309
-45. 
+1. [01 | 时势与英雄：HTTP的前世今生](https://time.geekbang.org/column/article/97837)
+2. [02 | HTTP是什么？HTTP又不是什么？](https://time.geekbang.org/column/article/98128)
+3. [03 | HTTP世界全览（上）：与HTTP相关的各种概念](https://time.geekbang.org/column/article/98423)
+4. [04 | HTTP世界全览（下）：与HTTP相关的各种协议](https://time.geekbang.org/column/article/98934)
+5. [05 | 常说的“四层”和“七层”到底是什么？“五层”“六层”哪去了？](https://time.geekbang.org/column/article/99286)
+6. [06 | 域名里有哪些门道？](https://time.geekbang.org/column/article/99665)
+7. [07 | 自己动手，搭建HTTP实验环境](https://time.geekbang.org/column/article/100124)
+8. [08 | 键入网址再按下回车，后面究竟发生了什么？](https://time.geekbang.org/column/article/100502)
+9. [09 | HTTP报文是什么样子的？](https://time.geekbang.org/column/article/100513)
+10. [10 | 应该如何理解请求方法？](https://time.geekbang.org/column/article/101518)
+11. [11 | 你能写出正确的网址吗？](https://time.geekbang.org/column/article/102008)
+12. [12 | 响应状态码该怎么用？](https://time.geekbang.org/column/article/102483)
+13. [13 | HTTP有哪些特点？](https://time.geekbang.org/column/article/103270)
+14. [14 | HTTP有哪些优点？又有哪些缺点？](https://time.geekbang.org/column/article/103746)
+15. [15 | 海纳百川：HTTP的实体数据](https://time.geekbang.org/column/article/104024)
+16. [16 | 把大象装进冰箱：HTTP传输大文件的方法](https://time.geekbang.org/column/article/104456)
+17. [17 | 排队也要讲效率：HTTP的连接管理](https://time.geekbang.org/column/article/104949)
+18. [18 | 四通八达：HTTP的重定向和跳转](https://time.geekbang.org/column/article/105614)
+19. [19 | 让我知道你是谁：HTTP的Cookie机制](https://time.geekbang.org/column/article/106034)
+20. [20 | 生鲜速递：HTTP的缓存控制](https://time.geekbang.org/column/article/106804)
+21. [21 | 良心中间商：HTTP的代理服务](https://time.geekbang.org/column/article/107577)
+22. [22 | 冷链周转：HTTP的缓存代理](https://time.geekbang.org/column/article/108313)
+23. [23 | HTTPS是什么？SSL/TLS又是什么？](https://time.geekbang.org/column/article/108643)
+24. [24 | 固若金汤的根本（上）：对称加密与非对称加密](https://time.geekbang.org/column/article/109062)
+25. [25 | 固若金汤的根本（下）：数字签名与证书](https://time.geekbang.org/column/article/109503)
+26. [26 | 信任始于握手：TLS1.2连接过程解析](https://time.geekbang.org/column/article/110354)
+27. [27 | 更好更快的握手：TLS1.3特性解析](https://time.geekbang.org/column/article/110718)
+28. [28 | 连接太慢该怎么办：HTTPS的优化](https://time.geekbang.org/column/article/111287)
+29. [29 | 我应该迁移到HTTPS吗？](https://time.geekbang.org/column/article/111940)
+30. [30 | 时代之风（上）：HTTP/2特性概览](https://time.geekbang.org/column/article/112036)
+31. [31 | 时代之风（下）：HTTP/2内核剖析](https://time.geekbang.org/column/article/113481)
+32. [32 | 未来之路：HTTP/3展望](https://time.geekbang.org/column/article/115564)
+33. [33 | 我应该迁移到HTTP/2吗？](https://time.geekbang.org/column/article/116260)
+34. [34 | Nginx：高性能的Web服务器](https://time.geekbang.org/column/article/117492)
+35. [35 | OpenResty：更灵活的Web服务器](https://time.geekbang.org/column/article/118685)
+36. [36 | WAF：保护我们的网络服务](https://time.geekbang.org/column/article/119013)
+37. [37 | CDN：加速我们的网络服务](https://time.geekbang.org/column/article/120664)
+38. [38 | WebSocket：沙盒里的TCP](https://time.geekbang.org/column/article/121092)
+39. [39 | HTTP性能优化面面观（上）](https://time.geekbang.org/column/article/126374)
+40. [40 | HTTP性能优化面面观（下）](https://time.geekbang.org/column/article/127808)
+41. [41 | Linux/Mac实验环境搭建与URI查询参数](https://time.geekbang.org/column/article/146833)
+42. [42 | DHE/ECDHE算法的原理](https://time.geekbang.org/column/article/148188)
+43. [结束语 | 做兴趣使然的Hero](https://time.geekbang.org/column/article/128406)
+44. [结课测试 | 这些HTTP协议知识，你真的掌握了吗？](https://time.geekbang.org/column/article/228309)

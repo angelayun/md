@@ -1,87 +1,87 @@
-* https://time.geekbang.org/column/article/39922
+* [开篇词 | 从今天起，跨过“数据结构与算法”这道坎](https://time.geekbang.org/column/article/39922)
   
 
-1. https://time.geekbang.org/column/article/39972
-2. https://time.geekbang.org/column/article/40011
-3. https://time.geekbang.org/column/article/40036
-4. https://time.geekbang.org/column/article/40447
-5. https://time.geekbang.org/column/article/40961
-6. https://time.geekbang.org/column/article/41013
-7. https://time.geekbang.org/column/article/41149
-8. https://time.geekbang.org/column/article/41222
-9. https://time.geekbang.org/column/article/41330
-10. https://time.geekbang.org/column/article/41440
-11. https://time.geekbang.org/column/article/41802
-12. https://time.geekbang.org/column/article/41913
-13. https://time.geekbang.org/column/article/42038
-14. https://time.geekbang.org/column/article/42359
-15. https://time.geekbang.org/column/article/42520
-16. https://time.geekbang.org/column/article/42733
-17. https://time.geekbang.org/column/article/42896
-18. https://time.geekbang.org/column/article/64233
-19. https://time.geekbang.org/column/article/64586
-20. https://time.geekbang.org/column/article/64858
-21. https://time.geekbang.org/column/article/65312
-22. https://time.geekbang.org/column/article/67388
-23. https://time.geekbang.org/column/article/67856
-24. https://time.geekbang.org/column/article/68334
-25. https://time.geekbang.org/column/article/68638
-26. https://time.geekbang.org/column/article/68976
-27. https://time.geekbang.org/column/article/69388
-28. https://time.geekbang.org/column/article/69913
-29. https://time.geekbang.org/column/article/70187
-30. https://time.geekbang.org/column/article/70537
-31. https://time.geekbang.org/column/article/70891
-32. https://time.geekbang.org/column/article/71187
-33. https://time.geekbang.org/column/article/71525
-34. https://time.geekbang.org/column/article/71845
-35. https://time.geekbang.org/column/article/72414
-36. https://time.geekbang.org/column/article/72810
-37. https://time.geekbang.org/column/article/73188
-38. https://time.geekbang.org/column/article/73503
-39. https://time.geekbang.org/column/article/74287
-40. https://time.geekbang.org/column/article/74788
-41. https://time.geekbang.org/column/article/75702
-42. https://time.geekbang.org/column/article/75794
-43. https://time.geekbang.org/column/article/76207
-44. https://time.geekbang.org/column/article/76468
-45. https://time.geekbang.org/column/article/76827
-46. https://time.geekbang.org/column/article/77142
-47. https://time.geekbang.org/column/article/77457
-48. https://time.geekbang.org/column/article/77830
-49. https://time.geekbang.org/column/article/78175
-50. https://time.geekbang.org/column/article/78449
-51. https://time.geekbang.org/column/article/78795
-52. https://time.geekbang.org/column/article/79159
-53. https://time.geekbang.org/column/article/79433
-54. https://time.geekbang.org/column/article/79871
-55. https://time.geekbang.org/column/article/80388
-56. https://time.geekbang.org/column/article/80850
+1. [01 | 为什么要学习数据结构和算法？](https://time.geekbang.org/column/article/39972)
+2. [02 | 如何抓住重点，系统高效地学习数据结构与算法？](https://time.geekbang.org/column/article/40011)
+3. [03 | 复杂度分析（上）：如何分析、统计算法的执行效率和资源消耗？](https://time.geekbang.org/column/article/40036)
+4. [04 | 复杂度分析（下）：浅析最好、最坏、平均、均摊时间复杂度](https://time.geekbang.org/column/article/40447)
+5. [05 | 数组：为什么很多编程语言中数组都从0开始编号？](https://time.geekbang.org/column/article/40961)
+6. [06 | 链表（上）：如何实现LRU缓存淘汰算法?](https://time.geekbang.org/column/article/41013)
+7. [07 | 链表（下）：如何轻松写出正确的链表代码？](https://time.geekbang.org/column/article/41149)
+8. [08 | 栈：如何实现浏览器的前进和后退功能？](https://time.geekbang.org/column/article/41222)
+9. [09 | 队列：队列在线程池等有限资源池中的应用](https://time.geekbang.org/column/article/41330)
+10. [10 | 递归：如何用三行代码找到“最终推荐人”？](https://time.geekbang.org/column/article/41440)
+11. [11 | 排序（上）：为什么插入排序比冒泡排序更受欢迎？](https://time.geekbang.org/column/article/41802)
+12. [12 | 排序（下）：如何用快排思想在O(n)内查找第K大元素？](https://time.geekbang.org/column/article/41913)
+13. [13 | 线性排序：如何根据年龄给100万用户数据排序？](https://time.geekbang.org/column/article/42038)
+14. [14 | 排序优化：如何实现一个通用的、高性能的排序函数？](https://time.geekbang.org/column/article/42359)
+15. [15 | 二分查找（上）：如何用最省内存的方式实现快速查找功能？](https://time.geekbang.org/column/article/42520)
+16. [16 | 二分查找（下）：如何快速定位IP对应的省份地址？](https://time.geekbang.org/column/article/42733)
+17. [17 | 跳表：为什么Redis一定要用跳表来实现有序集合？](https://time.geekbang.org/column/article/42896)
+18. [18 | 散列表（上）：Word文档中的单词拼写检查功能是如何实现的？](https://time.geekbang.org/column/article/64233)
+19. [19 | 散列表（中）：如何打造一个工业级水平的散列表？](https://time.geekbang.org/column/article/64586)
+20. [20 | 散列表（下）：为什么散列表和链表经常会一起使用？](https://time.geekbang.org/column/article/64858)
+21. [21 | 哈希算法（上）：如何防止数据库中的用户信息被脱库？](https://time.geekbang.org/column/article/65312)
+22. [22 | 哈希算法（下）：哈希算法在分布式系统中有哪些应用？](https://time.geekbang.org/column/article/67388)
+23. [23 | 二叉树基础（上）：什么样的二叉树适合用数组来存储？](https://time.geekbang.org/column/article/67856)
+24. [24 | 二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树？](https://time.geekbang.org/column/article/68334)
+25. [25 | 红黑树（上）：为什么工程中都用红黑树这种二叉树？](https://time.geekbang.org/column/article/68638)
+26. [26 | 红黑树（下）：掌握这些技巧，你也可以实现一个红黑树](https://time.geekbang.org/column/article/68976)
+27. [27 | 递归树：如何借助树来求解递归算法的时间复杂度？](https://time.geekbang.org/column/article/69388)
+28. [28 | 堆和堆排序：为什么说堆排序没有快速排序快？](https://time.geekbang.org/column/article/69913)
+29. [29 | 堆的应用：如何快速获取到Top 10最热门的搜索关键词？](https://time.geekbang.org/column/article/70187)
+30. [30 | 图的表示：如何存储微博、微信等社交网络中的好友关系？](https://time.geekbang.org/column/article/70537)
+31. [31 | 深度和广度优先搜索：如何找出社交网络中的三度好友关系？](https://time.geekbang.org/column/article/70891)
+32. [32 | 字符串匹配基础（上）：如何借助哈希算法实现高效字符串匹配？](https://time.geekbang.org/column/article/71187)
+33. [33 | 字符串匹配基础（中）：如何实现文本编辑器中的查找功能？](https://time.geekbang.org/column/article/71525)
+34. [34 | 字符串匹配基础（下）：如何借助BM算法轻松理解KMP算法？](https://time.geekbang.org/column/article/71845)
+35. [35 | Trie树：如何实现搜索引擎的搜索关键词提示功能？](https://time.geekbang.org/column/article/72414)
+36. [36 | AC自动机：如何用多模式串匹配实现敏感词过滤功能？](https://time.geekbang.org/column/article/72810)
+37. [37 | 贪心算法：如何用贪心算法实现Huffman压缩编码？](https://time.geekbang.org/column/article/73188)
+38. [38 | 分治算法：谈一谈大规模计算框架MapReduce中的分治思想](https://time.geekbang.org/column/article/73503)
+39. [39 | 回溯算法：从电影《蝴蝶效应》中学习回溯算法的核心思想](https://time.geekbang.org/column/article/74287)
+40. [40 | 初识动态规划：如何巧妙解决“双十一”购物时的凑单问题？](https://time.geekbang.org/column/article/74788)
+41. [41 | 动态规划理论：一篇文章带你彻底搞懂最优子结构、无后效性和重复子问题](https://time.geekbang.org/column/article/75702)
+42. [42 | 动态规划实战：如何实现搜索引擎中的拼写纠错功能？](https://time.geekbang.org/column/article/75794)
+43. [43 | 拓扑排序：如何确定代码源文件的编译依赖关系？](https://time.geekbang.org/column/article/76207)
+44. [44 | 最短路径：地图软件是如何计算出最优出行路径的？](https://time.geekbang.org/column/article/76468)
+45. [45 | 位图：如何实现网页爬虫中的URL去重功能？](https://time.geekbang.org/column/article/76827)
+46. [46 | 概率统计：如何利用朴素贝叶斯算法过滤垃圾短信？](https://time.geekbang.org/column/article/77142)
+47. [47 | 向量空间：如何实现一个简单的音乐推荐系统？](https://time.geekbang.org/column/article/77457)
+48. [48 | B+树：MySQL数据库索引是如何实现的？](https://time.geekbang.org/column/article/77830)
+49. [49 | 搜索：如何用A*搜索算法实现游戏中的寻路功能？](https://time.geekbang.org/column/article/78175)
+50. [50 | 索引：如何在海量数据中快速查找某个数据？](https://time.geekbang.org/column/article/78449)
+51. [51 | 并行算法：如何利用并行处理提高算法的执行效率？](https://time.geekbang.org/column/article/78795)
+52. [52 | 算法实战（一）：剖析Redis常用数据类型对应的数据结构](https://time.geekbang.org/column/article/79159)
+53. [53 | 算法实战（二）：剖析搜索引擎背后的经典数据结构和算法](https://time.geekbang.org/column/article/79433)
+54. [54 | 算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法](https://time.geekbang.org/column/article/79871)
+55. [55 | 算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法](https://time.geekbang.org/column/article/80388)
+56. [56 | 算法实战（五）：如何用学过的数据结构和算法实现一个短网址系统？](https://time.geekbang.org/column/article/80850)
 
 
-* https://time.geekbang.org/column/article/40681
-* https://time.geekbang.org/column/article/69607
-* https://time.geekbang.org/column/article/73786
-* https://time.geekbang.org/column/article/75197
-* https://time.geekbang.org/column/article/81997
-* https://time.geekbang.org/column/article/91541
-* https://time.geekbang.org/column/article/80456
-* https://time.geekbang.org/column/article/80457
-* https://time.geekbang.org/column/article/80458
-* https://time.geekbang.org/column/article/81008
-* https://time.geekbang.org/column/article/81186
-* https://time.geekbang.org/column/article/81218
-* https://time.geekbang.org/column/article/80459
-* https://time.geekbang.org/column/article/81230
-* https://time.geekbang.org/column/article/81263
-* https://time.geekbang.org/column/article/81835
-* https://time.geekbang.org/column/article/161115
-* https://time.geekbang.org/column/article/222808
-* https://time.geekbang.org/column/article/168882
-* https://time.geekbang.org/column/article/178378
-* https://time.geekbang.org/column/article/181421
-* https://time.geekbang.org/column/article/185686
-* https://time.geekbang.org/column/article/188898
+* [不定期福利第一期 | 数据结构与算法学习书单](https://time.geekbang.org/column/article/40681)
+* [不定期福利第二期 | 王争：羁绊前行的，不是肆虐的狂风，而是内心的迷茫](https://time.geekbang.org/column/article/69607)
+* [不定期福利第三期 | 测一测你的算法阶段学习成果](https://time.geekbang.org/column/article/73786)
+* [不定期福利第四期 | 刘超：我是怎么学习《数据结构与算法之美》的？](https://time.geekbang.org/column/article/75197)
+* [总结课 | 在实际开发中，如何权衡选择使用哪种数据结构和算法？](https://time.geekbang.org/column/article/81997)
+* [《数据结构与算法之美》学习指导手册](https://time.geekbang.org/column/article/91541)
+* [春节7天练 | Day 1：数组和链表](https://time.geekbang.org/column/article/80456)
+* [春节7天练 | Day 2：栈、队列和递归](https://time.geekbang.org/column/article/80457)
+* [春节7天练 | Day 3：排序和二分查找](https://time.geekbang.org/column/article/80458)
+* [春节7天练 | Day 4：散列表和字符串](https://time.geekbang.org/column/article/81008)
+* [春节7天练 | Day 5：二叉树和堆](https://time.geekbang.org/column/article/81186)
+* [春节7天练 | Day 6：图](https://time.geekbang.org/column/article/81218)
+* [春节7天练 | Day 7：贪心、分治、回溯和动态规划](https://time.geekbang.org/column/article/80459)
+* [用户故事 | Jerry银银：这一年我的脑海里只有算法](https://time.geekbang.org/column/article/81230)
+* [用户故事 | zixuan：站在思维的高处，才有足够的视野和能力欣赏“美”](https://time.geekbang.org/column/article/81263)
+* [结束语 | 送君千里，终须一别](https://time.geekbang.org/column/article/81835)
+* [第2季回归 | 这一次，我们一起拿下设计模式！](https://time.geekbang.org/column/article/161115)
+* [结课测试｜这些数据结构与算法，你真的掌握了吗？](https://time.geekbang.org/column/article/222808)
+* [打卡召集令 | 60 天攻克数据结构与算法](https://time.geekbang.org/column/article/168882)
+* [打卡召集令 | 第一阶段知识总结](https://time.geekbang.org/column/article/178378)
+* [打卡召集令 | 第二阶段知识总结](https://time.geekbang.org/column/article/181421)
+* [打卡召集令 | 第三阶段知识总结](https://time.geekbang.org/column/article/185686)
+* [打卡召集令 | 第四阶段知识总结](https://time.geekbang.org/column/article/188898)
 
 
   
